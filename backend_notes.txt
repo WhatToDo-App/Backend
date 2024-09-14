@@ -1,4 +1,0 @@
-- what will the tech stack be?
-- how will you build the database?
-- figure out how to leverage cloud services
-- 
