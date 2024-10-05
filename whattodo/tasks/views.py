@@ -1,6 +1,9 @@
+from rest_framework import generics
+from .models import Task
+from .serializers import TaskSerializer
 from django.http import HttpResponse
 from rest_framework import viewsets
-from .models import Task
+
 from .serializers import TaskSerializer
 
 # Create your views here.
